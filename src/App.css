@@ -1,0 +1,112 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  background-image: url("./images/parade.jpg");
+  font-family: cursive;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+.header {
+  background-color: palevioletred;
+  opacity: .9;
+  color: black;
+
+}
+
+.header-paragraph {
+  background-color: rgb(1, 238, 255);
+  opacity: .9;
+  color: black;
+
+}
+
+.links button {
+  background-color: rgb(1, 238, 255);
+  margin: 10px;
+}
+
+.links button:hover {
+  background-color: rgb(234, 250, 94);
+  border: rgb(234, 250, 94);
+}
+
+.homebtn {
+  color: black;
+}
+
+.homebtn:hover {
+  color: palevioletred;
+}
+
+.aboutbtn {
+  color: black;
+}
+
+.aboutbtn:hover {
+  color: palevioletred;
+}
+
+.menubtn {
+  color: black;
+}
+
+.menubtn:hover {
+  color: palevioletred;
+}
+
+.aboutus-story h1 {
+  background-color: palevioletred;
+  opacity: .9;
+  color: black;
+}
+
+.aboutus-p {
+  background-color: rgb(1, 238, 255);
+  opacity: .9;
+  color: black;
+  font-weight: bold;
+}
+
+.aboutimg {
+  width: 500px;
+  height: 300px;
+}
+
+.viewmenu {
+  background-color: palevioletred;
+  margin: 10px;
+}
+
+.home {
+  background-color: palevioletred;
+  margin: 10px;
+}
+
+@media screen and (max-width: 320px) {
+
+  /* Styles for 320x480 screen size */
+  .header {
+    font-size: 36px;
+  }
+}
+
+@media screen and (min-width: 321px) and (max-width: 480px) {
+
+  /* Styles for 480x640 screen size */
+  .header {
+    font-size: 48px;
+  }
+}
+
+@media screen and (min-width: 481px) and (max-width: 768px) {
+
+  /* Styles for 768x1024 screen size */
+  .header {
+    font-size: 52px;
+  }
+}
