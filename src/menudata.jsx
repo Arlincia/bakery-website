@@ -17,14 +17,14 @@
         id:3,
         title:'Macarons each',
         price:'R15,00',
-        variety:'Varitety of flavours to choose from',
+        variety:'Variety of flavours to choose from',
         imageUrl:'https://cloudykitchen.com/wp-content/uploads/2020/08/img_5f3f97fb341f4.jpg',
       },
       {
         id:4,
         title:'Full Milktart',
         price:'R50,00',
-        variety:'Orignal only',
+        variety:'Original only',
         imageUrl:'https://www.africanbites.com/wp-content/uploads/2014/11/IMG_0756.jpg',
       },
       {
